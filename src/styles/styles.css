@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.twitter{
+    display: flex;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.twitter--menu .twitter--recomended{
+    width: 25%;
+}
+
